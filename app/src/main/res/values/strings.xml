@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">屏幕翻译</string>
+    <string name="notification_channel_name">屏幕翻译悬浮服务</string>
+    <string name="notification_title">屏幕翻译运行中</string>
+    <string name="notification_content">点击屏幕上的悬浮球即可翻译当前画面</string>
+    <string name="action_stop">停止服务</string>
+</resources>
